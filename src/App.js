@@ -14,6 +14,7 @@ export default function App() {
           <a
             href="https://domonique-wilson-portfolio.netlify.app/about"
             target="_blank"
+            rel="noreferrer"
           >
             Domonique Wilson
           </a>{" "}
@@ -21,6 +22,7 @@ export default function App() {
           <a
             href="https://github.com/domoniquecodes/final-react-weather-app"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub
           </a>
